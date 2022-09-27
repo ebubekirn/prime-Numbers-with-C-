@@ -1,0 +1,8 @@
+C:\Users\ebube\Desktop\ERP\asalSayiBulma\bin\Debug\asalSayiBulma.exe.config
+C:\Users\ebube\Desktop\ERP\asalSayiBulma\bin\Debug\asalSayiBulma.exe
+C:\Users\ebube\Desktop\ERP\asalSayiBulma\bin\Debug\asalSayiBulma.pdb
+C:\Users\ebube\Desktop\ERP\asalSayiBulma\obj\Debug\asalSayiBulma.csproj.AssemblyReference.cache
+C:\Users\ebube\Desktop\ERP\asalSayiBulma\obj\Debug\asalSayiBulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebube\Desktop\ERP\asalSayiBulma\obj\Debug\asalSayiBulma.csproj.CoreCompileInputs.cache
+C:\Users\ebube\Desktop\ERP\asalSayiBulma\obj\Debug\asalSayiBulma.exe
+C:\Users\ebube\Desktop\ERP\asalSayiBulma\obj\Debug\asalSayiBulma.pdb
